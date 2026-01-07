@@ -12,17 +12,17 @@
 
 ## 🤯 The 4 Prompts That Built This Game
 
-The human operator only typed **4 simple prompts** to create this complete Pacman game:
+The human operator only typed **4 prompts** to create this complete Pacman game:
 
 | # | Human Prompt | What AI Did |
 |:-:|:-------------|:------------|
-| 1 | *"Continue if you have next steps"* | Fixed initialization bugs, resolved tag errors, implemented component-based collision |
+| 1 | *"Hi! We're going to build a classic game called Pac-Man. Right now, this project has no sprites and no scripts, so we'll create everything from start to finish—first by writing a game design plan, then implementing the game based on that plan, and finally recreating the same Game Scene as the reference image you provided"* | Designed architecture, created 17 scripts, built maze system, implemented ghost AI, generated procedural sprites — the entire game |
 | 2 | *"TextMesh Pro downloaded"* | Acknowledged and continued with UI implementation |
 | 3 | *"Confirmed it's working"* | Verified game functionality and checked for remaining issues |
 | 4 | *"Check why the red ghost flies off the map at start"* | Diagnosed Blinky's initial direction bug and fixed it |
 
-**That's it.** No detailed specifications. No code reviews. No manual debugging.  
-The AI handled everything autonomously.
+**That's it.** One initial prompt to describe the goal, and 3 simple follow-ups.  
+The AI handled everything autonomously — design, coding, debugging, and testing.
 
 ---
 
