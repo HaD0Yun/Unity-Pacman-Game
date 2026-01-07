@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1b2c41e51f8d8458cdb01c18c838e8, type: 3}
+  m_Name: DefaultGameConstants
+  m_EditorClassIdentifier: Assembly-CSharp::Pacman.Core.GameConstants
+  MazeWidth: 28
+  MazeHeight: 31
+  TileSize: 1
+  WallColor: {r: 0.13, g: 0.13, b: 1, a: 1}
+  BackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+  DotColor: {r: 1, g: 0.72, b: 0.68, a: 1}
+  GhostDoorColor: {r: 1, g: 0.72, b: 1, a: 1}
+  PacmanColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  BlinkyColor: {r: 1, g: 0, b: 0, a: 1}
+  PinkyColor: {r: 1, g: 0.72, b: 1, a: 1}
+  InkyColor: {r: 0, g: 1, b: 1, a: 1}
+  ClydeColor: {r: 1, g: 0.72, b: 0.32, a: 1}
+  FrightenedGhostColor: {r: 0.2, g: 0.2, b: 0.8, a: 1}
+  FrightenedBlinkColor: {r: 1, g: 1, b: 1, a: 1}
+  BaseSpeed: 8
+  PacmanNormalSpeed: 0.8
+  PacmanEatingSpeed: 0.71
+  PacmanTunnelSpeed: 0.4
+  GhostNormalSpeed: 0.75
+  GhostTunnelSpeed: 0.4
+  GhostFrightenedSpeed: 0.5
+  GhostEatenSpeed: 1.5
+  SmallDotPoints: 10
+  PowerPelletPoints: 50
+  GhostEatPoints: c8000000900100002003000040060000
+  ExtraLifeScore: 10000
+  StartingLives: 3
+  MaxLives: 5
+  FrightenedDuration: 6
+  FrightenedBlinkDuration: 2
+  FrightenedBlinkRate: 0.2
+  ScatterDurations:
+  - 7
+  - 7
+  - 5
+  - 5
+  ChaseDurations:
+  - 20
+  - 20
+  - 20
+  - -1
+  InkyExitDotCount: 30
+  ClydeExitDotCount: 60
+  GhostExitDelay: 0.5
+  PacmanSpawnPosition: {x: 13.5, y: 7}
+  BlinkySpawnPosition: {x: 13.5, y: 19}
+  PinkySpawnPosition: {x: 13.5, y: 16}
+  InkySpawnPosition: {x: 11.5, y: 16}
+  ClydeSpawnPosition: {x: 15.5, y: 16}
+  BlinkyScatterCorner: {x: 25, y: 0}
+  PinkyScatterCorner: {x: 2, y: 0}
+  InkyScatterCorner: {x: 27, y: 30}
+  ClydeScatterCorner: {x: 0, y: 30}
+  MouthAnimationSpeed: 15
+  MaxMouthAngle: 45
+  PowerPelletPulseSpeed: 4

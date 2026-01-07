@@ -1,0 +1,16 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "ai-game-developer": {
+      "type": "local",
+      "command": [
+        "D:/OneCue/OneCue_Test1/Library/mcp-server/win-x64/unity-mcp-server.exe",
+        "--port=53943",
+        "--plugin-timeout=10000",
+        "--client-transport=stdio"
+      ],
+      "enabled": true,
+      "timeout": 15000
+    }
+  }
+}
