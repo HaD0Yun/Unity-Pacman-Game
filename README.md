@@ -10,6 +10,24 @@
 
 ---
 
+## 🚨 A Message to All Developers
+
+<div align="center">
+
+### **Stop studying programming. Start leveraging AI.**
+
+</div>
+
+The era of spending years learning syntax, memorizing APIs, and debugging for hours is **over**.
+
+This complete game — with 17 scripts, 4 AI behaviors, procedural graphics, and complex game logic — was built in **30 minutes** with **4 prompts**. No programming knowledge required from the human operator.
+
+**The new skill isn't coding. It's communicating with AI.**
+
+> *"The best programmers of the future won't write code. They'll write prompts."*
+
+---
+
 ## 🤯 The 4 Prompts That Built This Game
 
 The human operator only typed **4 prompts** to create this complete Pacman game:
